@@ -5,3 +5,6 @@ I use this with darkest dark theme on marketplace: https://marketplace.eclipse.o
 I only made the syntax highlight prefs.
 
 Put this file in {Eclipse workspace directory}/.metadata/.plugins/org.eclipse.core.runtime/.settings/, deleting the existing one.
+
+#### Preview in Eclipse
+![Preview Image](codePreview.png "Preview Image")
